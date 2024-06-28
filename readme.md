@@ -402,6 +402,6 @@ You must have the NET SDK version 8 installed to build and run.
 
 # Releases
 
-See https://github.com/kaby76/Domemtech.Trash/releases.
+See [here](https://github.com/kaby76/Domemtech.Trash/releases).
 
 If you have any questions, email me at ken.domino <at> gmail.com
